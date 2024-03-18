@@ -1,3 +1,4 @@
+afcdn.net
 ads.samsung.com
 samsungtvads.com
 samsungads.com
