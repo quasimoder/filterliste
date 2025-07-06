@@ -1,3 +1,10 @@
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0	afcdn.net
 0.0.0.0	ads.samsung.com
 0.0.0.0	samsungtvads.com
