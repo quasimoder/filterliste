@@ -4,6 +4,9 @@
 0.0.0.0 .getsentry.com
 0.0.0.0 .yandex.net
 0.0.0.0 .yandex.ru
+0.0.0.0 .adcolony.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 app.getsentry.com
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 fwtracks.freshmarketer.com
 0.0.0.0 realtime.luckyorange.com
