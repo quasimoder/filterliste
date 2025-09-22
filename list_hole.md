@@ -1,3 +1,9 @@
+0.0.0.0 mouseflow.com
+0.0.0.0 .mouseflow.com
+0.0.0.0 .bugsnag.com
+0.0.0.0 .getsentry.com
+0.0.0.0 .yandex.net
+0.0.0.0 .yandex.ru
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 fwtracks.freshmarketer.com
 0.0.0.0 realtime.luckyorange.com
